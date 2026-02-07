@@ -6,7 +6,7 @@ This dataset is licensed under Creative Commons Attribution 4.0 International (C
 
 If you use this dataset in your research, please cite:
 
-@inproceedings{max2025decentralized,
+@inproceedings{faheem2025decentralized,
   title={A Decentralized Multi-Agent Federated Learning Mechanism for Collaborative Autonomous Driving},
   author={Max, Faheem and [Co-authors]},
   booktitle={[Conference Name]},
